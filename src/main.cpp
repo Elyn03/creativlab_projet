@@ -5,7 +5,7 @@
 #define CLK 12
 #define DIO 13
 
-
+// configuration des led de l'afficheur
 const uint8_t SEG_DONE[] = {
 	SEG_B | SEG_C | SEG_D | SEG_E | SEG_G,
 	SEG_A | SEG_B | SEG_C | SEG_D | SEG_E | SEG_F,
